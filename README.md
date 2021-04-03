@@ -1,5 +1,7 @@
 ## Active
 ## Maintained
+* [Compact NTFS](https://github.com/martin-kudlicka/compact-ntfs) (May 2020 - April 2021)
+  C++, WinAPI, [Qt](https://www.qt.io/)
 * [Crypto Miner](https://github.com/martin-kudlicka/crypto-miner) (March 2018 - May 2018)  
   C++, [Qt](https://www.qt.io/)
 * [CPU Limiter](https://github.com/martin-kudlicka/cpu-limiter) (November 2017 - April 2018)  
